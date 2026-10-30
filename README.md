@@ -1,12 +1,12 @@
-# Bancs Scenoptic
+# Scenoptic benchmarks
 
-Mesures de performance de Scenoptic, viewer BIM WebGPU pour navigateur, face aux autres viewers BIM web.
+Performance measurements of Scenoptic, a WebGPU BIM viewer for the browser, against other web BIM viewers.
 
-## Octobre 2026 : banc BIM web
+## October 2026: web BIM benchmark
 
-Scenoptic face à That Open 3.6 (WebGL et WebGPU), xeokit, IFClite et BIM Open Viewer, sur cinq GPU (RTX 4090 Laptop, Radeon 890M, Quadro T2000 Max-Q, deux Intel UHD) et sept jeux de test de 1,7 à 620 millions de triangles.
+Scenoptic compared with That Open 3.6 (WebGL and WebGPU), xeokit, IFClite and BIM Open Viewer, on five GPUs (RTX 4090 Laptop, Radeon 890M, Quadro T2000 Max-Q, two Intel UHD) and seven test sets from 1.7 to 620 million triangles.
 
-- [En bref](https://sebgoubier.github.io/scenoptic-benchmarks/2026-10/)
-- [Version complète](https://sebgoubier.github.io/scenoptic-benchmarks/2026-10/complet.html) : GPU, effets, CPU, ouverture, lecture IFC, mémoire, tenue en charge, limites et méthode.
+- [Summary](https://sebgoubier.github.io/scenoptic-benchmarks/2026-10/)
+- [Full report](https://sebgoubier.github.io/scenoptic-benchmarks/2026-10/complet.html): GPU, effects, CPU, loading, IFC parsing, memory, scaling, limits and method.
 
-Les maquettes client des tests 2 et 3 sont anonymisées : seuls le poids de l'IFC, les triangles et les objets sont publiés.
+The reports are in French for now.
